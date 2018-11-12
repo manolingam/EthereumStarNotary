@@ -1,0 +1,6 @@
+Contract address : 0xac05fb85bb7edac5234a14517bd8b91bdfa5c2b8
+Contract transaction hash : 0x50c8c1a26c5c3275783cec9215e2157e3c4aeae19c29d6d38304697953b58d8e 
+
+Star Token ID: 1
+Transaction hash for star creation: 0x61a900d2dac34bb15321e99a024ede4b8adddc727d17616f407fc028ed1f19e0
+Transaction hash for star put up for sale: 0x70e2282e8cc26f54dcba087ed464ad1bfefa9ab0b8313b973d68e782e3fb8dc9

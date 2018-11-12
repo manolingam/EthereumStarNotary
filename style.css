@@ -1,0 +1,21 @@
+body {
+    background-color:#F0F0F0;
+    padding: 2em;
+    font-family: 'Raleway','Source Sans Pro', 'Arial';
+    text-align: center;
+}
+.bold { 
+    font-weight: bolder;
+}
+input {
+    width: 50%;
+    padding: 20px;
+    margin: 10px;
+    border: none;
+    border-bottom: 2px solid red;
+}
+button {
+    margin: 2em 0;
+    padding: 1em 4em;
+    align-content: center;
+}
